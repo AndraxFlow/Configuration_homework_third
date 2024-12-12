@@ -1,0 +1,15 @@
+global max_connections = 100
+global server_name = "example_server"
+global dogs_ages = 7
+
+name = "Max"
+age = 19
+dog_age = "@{19 * dogs_ages}"
+food = ["apple", "pear", "banana"]
+
+description = "There was a beautiful day"
+
+classmates = [
+    "Max",
+    "Alex"
+]
